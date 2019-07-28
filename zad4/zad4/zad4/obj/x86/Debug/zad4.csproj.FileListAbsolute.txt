@@ -1,0 +1,15 @@
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\Content\paddle1.xnb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\Content\paddle2.xnb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\Content\pongBackground.xnb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\Content\pongBall.xnb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\zad4.exe
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\zad4.pdb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\obj\x86\Debug\zad4.exe
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\obj\x86\Debug\zad4.pdb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\zad4.exe.manifest
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\bin\x86\Debug\zad4.application
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\obj\x86\Debug\zad4.exe.manifest
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\obj\x86\Debug\zad4.application
+D:\Programowanie\C#\XNA\zad4\zad4\zad4\obj\x86\Debug\zad4.csprojResolveAssemblyReference.cache
